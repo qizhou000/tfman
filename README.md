@@ -1,7 +1,7 @@
 
 # TFMAN
 
-Official pytorch implementation of paper [*Single image super-resolution based on trainable feature matching attention network (TFMAN)*](https://www.sciencedirect.com/science/article/pii/S0031320324000402) [Google Scholar](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Single+image+super-resolution+based+on+trainable+feature+matching+attention+network&btnG=). 
+Official pytorch implementation of paper [*Single image super-resolution based on trainable feature matching attention network (TFMAN)*](https://www.sciencedirect.com/science/article/pii/S0031320324000402) [(Google Scholar)](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Single+image+super-resolution+based+on+trainable+feature+matching+attention+network&btnG=). 
 
 # Fast Run
 The organization structure of the code is very simple. You can directly run 
